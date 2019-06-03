@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "293444539976",
+    "firebase_url": "https://reflectly-animation.firebaseio.com",
+    "project_id": "reflectly-animation",
+    "storage_bucket": "reflectly-animation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293444539976:android:a057cb3dbb81950d",
+        "android_client_info": {
+          "package_name": "com.sergio.reflecty_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZrk8E-IM95itYm52UE49drb3QUOUVfSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293444539976-6c93h4fipdj3crldgjrhbhbjjcmpabqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
